@@ -1,0 +1,16 @@
+h1 {
+  color: blue;
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+  color: white;
+  background-color: #000000;
+}
+
+#manible {
+ color: Green;
+ font-size: 25px;
+ background-color:Pink;
+}
